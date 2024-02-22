@@ -1,11 +1,21 @@
 # URL Shortener Discord Bot
 
+
 Welcome to the URL Shortener Discord Bot! This bot allows you to generate short URLs right from your Discord server.
 
 ## Join Our Discord Channel
 
 Join our Discord channel to stay updated, ask questions, and collaborate with other users:
 [Join Discord Channel](https://discord.gg/WYXazAFF)
+
+## Usage
+
+Once the bot is running in your Discord server, you can generate short URLs by sending messages in the format `create,url,email` where `url` is the long URL you want to shorten and `email` is your email address.
+
+For example: 
+
+This will generate a short URL for `https://example.com` associated with the email `example@example.com`.
+
 
 ## Backend API Repository
 
