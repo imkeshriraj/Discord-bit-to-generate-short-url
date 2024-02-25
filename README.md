@@ -57,6 +57,9 @@ We welcome contributions from the community! Feel free to fork the repository, m
 
 If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
 
+
+For more information, visit my [LinkedIn profile](https://www.linkedin.com/in/imkeshriraj/).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
